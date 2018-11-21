@@ -1,29 +1,720 @@
-Sabda Pandita Ratu
-copyright by Sanggar cerita
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
 
+<channel>
+	<title>Andromo App Maker Blog</title>
+	<atom:link href="https://blog.andromo.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.andromo.com</link>
+	<description>Create Android apps without coding. Make your first app for free!</description>
+	<lastBuildDate>Fri, 14 Sep 2018 12:35:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">65950383</site>	<item>
+		<title>Andromo App Maker Has Been Acquired!</title>
+		<link>https://blog.andromo.com/2018/andromo-app-maker-has-been-acquired/</link>
+		<comments>https://blog.andromo.com/2018/andromo-app-maker-has-been-acquired/#respond</comments>
+		<pubDate>Fri, 14 Sep 2018 12:35:32 +0000</pubDate>
+		<dc:creator><![CDATA[Colin Adams]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+		<category><![CDATA[press release]]></category>
 
-Tumenggung Murtiwandawa (Seri 001-030) 
-Merentang Gendewa Luka (Seri 031-060) 
-Purnama Kambang Ayun (Seri 061-090) 
-Singa Liar Padang Karautan (Seri 091-120) 
-Rahasia Bunga Desa (Seri 121-150) 
-Asmara Dahana (Seri 151-180) 
-Bintang Malapetaka (Seri 181-210) 
-Sang Rajasa Triwikrama (Seri 211-240) 
-Panas Bara Perapian (Seri 241-270) 
-Gerhana Di Medan Laga (Seri 271-300) 
-Sang Singgasana (Seri 301-330) 
-Candi Swambara Budura (Seri 331-360) 
-Senja di Pasetran (Seri 361-390) 
-Rajah Kala Cakra (Seri 391-420) 
-Singasari (Seri 421-450) 
-Duka Luka Bumi Blambangan (Seri 451-480) 
-Melacak Dunia Muksa (Seri 481-510) 
-Panembahan Rupayana (Seri 511-540) 
-Purwakala Pangeran Patih (Seri 541-570) 
-Rembulan Dan Matahari (Seri 571-600) 
-Pelangi Tengah Malam (Seri 601-630) 
-Bajang Condo Birowo (Seri 631-660) 
-Hantu Nusa Kambangan (Seri 661-690) 
-Sepak Terjang Pemetik Kembang (Seri 691-720) 
-Lidah Api Abadi (Seri 721-750)
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4405</guid>
+		<description><![CDATA[<p>Dear Andromo Member, Seven years ago, during the deep dark Canadian winter, we set out to change the way that people create apps [A Brief History of App Crunchiness]. We wanted to democratize the app making process. Make it possible for anyone to create apps, even if they’d never coded a day in their life. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-has-been-acquired/">Andromo App Maker Has Been Acquired!</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-4410" src="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/09/rawpixel-593602-unsplash.jpg?resize=1000%2C442&#038;ssl=1" alt="" width="1000" height="442" data-recalc-dims="1" /></p>
+<p>Dear Andromo Member,</p>
+<p>Seven years ago, during the deep dark Canadian winter, we set out to change the way that people create apps [<a href="https://blog.andromo.com/2011/brief-history-of-app-crunchiness/">A Brief History of App Crunchiness</a>]. We wanted to democratize the app making process. Make it possible for anyone to create apps, even if they’d never coded a day in their life.</p>
+<p>Since then, over 750,000 people have signed up on Andromo.com. Together you have built 700,000 projects, performed 1.3 million app builds, and achieved hundreds of millions of installs. Your apps have seen billions and billions of user sessions. Not too shabby for people who “don’t know how to code,” wouldn’t you say?</p>
+<p><em>Today we take the next step.</em></p>
+<p><strong>Indigo Rose Software is excited to announce that <a href="https://www.andromo.com">Andromo App Maker</a> has been acquired by a private investment group and reorganized under the new company Andromo BV.</strong> Based in the Netherlands, Andromo BV brings more financial resources, experience, people and ideas to the table. They are well positioned to strengthen and enhance what everyone knows and loves about Andromo.</p>
+<p>Andromo’s mission is still the same: Help people make apps without coding. Give them the tools to start their own app business and never look back. However, there will now be more resources available to improve and expand Andromo. To introduce new services. To make things better, easier and more profitable for app developers.</p>
+<p><strong><span style="color: #ff0000;">Customers can expect the switch to be seamless: all projects, apps, logins and customer details will carry over. Any paid subscription time and details will be transferred to and honored by Andromo BV.</span></strong> Customers are their top priority.</p>
+<blockquote><p>Niels Benjamins, newly appointed CEO of Andromo BV, had this to say:</p>
+<p>“At Andromo BV we are looking forward to start working with this great platform. We have some awesome plans to make Andromo even more user-friendly and add exciting new features and activities to the platform. Plus, we are going to introduce easier ways to start earning money through the applications you make with Andromo. By giving Andromo the resources and attention it needs, and working closely with all of the content creators who use Andromo (who we see as our partners), we know we can create something truly special together.”</p></blockquote>
+<p>Finally, I&#8217;d like to say that none of this would have been possible if not for the amazing rock star programmers here at Indigo Rose (Lorne Laliberte, Darryl Hnatiuk and alumni Mark Mruss), along with all of our loyal customers.</p>
+<p><span style="color: #0000ff;"><em>Thanks to all of you for helping to make Andromo awesome.</em></span></p>
+<p>Here’s to the future! It’s going to be great.</p>
+<p>Sincerely,</p>
+<p><img class="alignnone wp-image-4407" src="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/09/colin-signature.png?resize=290%2C44&#038;ssl=1" alt="" width="290" height="44" data-recalc-dims="1" /></p>
+<p>Colin Adams, President<br />
+<a href="https://www.indigorose.com">Indigo Rose Software Corporation</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-has-been-acquired/">Andromo App Maker Has Been Acquired!</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/andromo-app-maker-has-been-acquired/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4405</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.1.2 Released</title>
+		<link>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-2-released/</link>
+		<comments>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-2-released/#respond</comments>
+		<pubDate>Thu, 23 Aug 2018 20:30:36 +0000</pubDate>
+		<dc:creator><![CDATA[Lorne Laliberte]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4388</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.1.2 has been released. Here is a list of changes in this version: Added support for YouTube pagination to the YouTube activity. It is now possible to load more results beyond the initial 50 items (if available). Made it so you can load more items in the YouTube activity [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-2-released/">Andromo App Maker for Android v5.1.2 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.1.2 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Added support for YouTube pagination to the YouTube activity. It is now possible to load more results beyond the initial 50 items (if available).</li>
+<li>Made it so you can load more items in the YouTube activity by swiping up at the bottom of the list.</li>
+<li>Fixed all item styles to work properly in RTL (right-to-left) locales.</li>
+<li>Fixed how Contact activity is displayed in RTL.</li>
+<li>Fixed how Podcast episode activity header is displayed in RTL.</li>
+<li>Fixed newlines in activity descriptions so an &#8216;r&#8217; isn&#8217;t inserted where you press &#8216;Enter&#8217; in the description text.</li>
+<li>Made the navigation drawer appear behind a translucent status bar for Android API 21 and above.</li>
+</ul>
+<p>Andromo App Maker for Android v5.1.2 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<div id="attachment_4397" style="width: 1010px" class="wp-caption alignnone"><img class="size-large wp-image-4397" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/08/nordwood-themes-469906-unsplash.jpg?resize=1000%2C494&#038;ssl=1" alt="andromo app maker for android" width="1000" height="494" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/08/nordwood-themes-469906-unsplash.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/08/nordwood-themes-469906-unsplash.jpg?resize=600%2C296&amp;ssl=1 600w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/08/nordwood-themes-469906-unsplash.jpg?resize=768%2C379&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /><p class="wp-caption-text">andromo app maker for android!</p></div>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-2-released/">Andromo App Maker for Android v5.1.2 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-2-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4388</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.1.1 Released</title>
+		<link>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-1-released/</link>
+		<comments>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-1-released/#respond</comments>
+		<pubDate>Wed, 18 Jul 2018 18:35:42 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4381</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.1.1 has been released. Here is a list of changes in this version: Fixed a bug in Audio, Radio and Podcast activities where currently playing audio would fail to automatically resume after an interstitial ad was shown. Fixed incorrect Play/Pause button state after navigating to another activity with the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-1-released/">Andromo App Maker for Android v5.1.1 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.1.1 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Fixed a bug in Audio, Radio and Podcast activities where currently playing audio would fail to automatically resume after an interstitial ad was shown.</li>
+<li>Fixed incorrect Play/Pause button state after navigating to another activity with the navigation drawer, playing a track, and navigating back.</li>
+<li>Made it so media controls are reset to their default states to indicate when audio is loaded/playing in another activity.</li>
+<li>Fixed incorrect state of some other media controls after navigating using the navigation drawer (e.g. current time blinking while another activity&#8217;s audio was paused).</li>
+<li>Fixed an issue with sms: and smsto: link handling in the Website, Custom Page, and HTML Archive activities causing them to fail with a &#8216;no application found&#8217; error in some cases.</li>
+</ul>
+<p>Andromo App Maker for Android v5.1.1 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-large wp-image-4385" src="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2018/07/becca-tapert-357523-unsplash.jpg?resize=1000%2C667&#038;ssl=1" alt="" width="1000" height="667" srcset="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2018/07/becca-tapert-357523-unsplash.jpg?w=1000&amp;ssl=1 1000w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2018/07/becca-tapert-357523-unsplash.jpg?resize=600%2C400&amp;ssl=1 600w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2018/07/becca-tapert-357523-unsplash.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-1-released/">Andromo App Maker for Android v5.1.1 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-1-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4381</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.1.0 Released</title>
+		<link>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-0-released/</link>
+		<comments>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-0-released/#respond</comments>
+		<pubDate>Thu, 05 Jul 2018 14:14:25 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[Android 8.1]]></category>
+		<category><![CDATA[api 26]]></category>
+		<category><![CDATA[api 27]]></category>
+		<category><![CDATA[api26]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4354</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.1.0 has been released. Here is a list of changes in this version: Apps now target Android 8.1 (API level 27) &#8211; one better than Google&#8217;s mandated API 26 target requirement effective August 2018! Changed minimum version requirement to Android 4.1 &#8220;Jelly Bean&#8221; (API level 16). Many (!) changes [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-0-released/">Andromo App Maker for Android v5.1.0 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.1.0 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Apps now target Android 8.1 (API level 27) &#8211; one better than Google&#8217;s mandated API 26 target requirement effective August 2018!</li>
+<li>Changed minimum version requirement to Android 4.1 &#8220;Jelly Bean&#8221; (API level 16).</li>
+<li>Many (!) changes to fix and update things that would not work due to changes introduced in Android API 26 and API 27. Many months of work&#8230;</li>
+<li>Extensive internal changes to work around new restrictions on background services.</li>
+<li>Changes to how audio cache data is accessed to eliminate the risk of TransactionTooLargeException for very large playlists.</li>
+<li>Improved audio cache management when switching between activities.</li>
+<li>Improved audio cache data storage.</li>
+<li>Changes to how &#8220;Download and play&#8221; actions are implemented.</li>
+<li>A progress notification is shown while podcast files are downloaded.</li>
+<li>Made it so &#8220;Show track info&#8221; works with SHOUTcast stream URLs that end in &#8220;;&#8221; or &#8220;;stream/1&#8221;</li>
+<li>Fixed navigating &#8220;back&#8221; to the parent activity after clicking on an audio notification.</li>
+<li>Added some missing French language translations.</li>
+</ul>
+<p>Andromo App Maker for Android v5.1.0 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-large wp-image-4375" src="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/07/kim-s-ly-187663-unsplash.jpg?resize=1000%2C667&#038;ssl=1" alt="" width="1000" height="667" srcset="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/07/kim-s-ly-187663-unsplash.jpg?w=1000&amp;ssl=1 1000w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/07/kim-s-ly-187663-unsplash.jpg?resize=600%2C400&amp;ssl=1 600w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/07/kim-s-ly-187663-unsplash.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-0-released/">Andromo App Maker for Android v5.1.0 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-1-0-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4354</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.16 Released</title>
+		<link>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-16-released/</link>
+		<comments>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-16-released/#respond</comments>
+		<pubDate>Thu, 31 May 2018 19:16:49 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4347</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.16 has been released. Here is a list of changes in this version: Fixed a bug where the EU launch notice could fail to be shown on the first launch of the app on some devices. Updated the Google Mobile Ads SDK (AdMob) version to 15.0.1. Updated the YouTube [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-16-released/">Andromo App Maker for Android v5.0.16 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.16 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Fixed a bug where the EU launch notice could fail to be shown on the first launch of the app on some devices.</li>
+<li>Updated the Google Mobile Ads SDK (AdMob) version to 15.0.1.</li>
+<li>Updated the YouTube Data API to version v3-rev198-1.23.0.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.16 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-large wp-image-4350" src="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/05/mark-solarski-177426-unsplash.jpg?resize=1000%2C664&#038;ssl=1" alt="" width="1000" height="664" srcset="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/05/mark-solarski-177426-unsplash.jpg?w=1000&amp;ssl=1 1000w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/05/mark-solarski-177426-unsplash.jpg?resize=600%2C398&amp;ssl=1 600w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/05/mark-solarski-177426-unsplash.jpg?resize=768%2C510&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-16-released/">Andromo App Maker for Android v5.0.16 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-16-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4347</post-id>	</item>
+		<item>
+		<title>Creating GDPR Compliant Apps with Andromo</title>
+		<link>https://blog.andromo.com/2018/creating-gdpr-compliant-apps-with-andromo/</link>
+		<comments>https://blog.andromo.com/2018/creating-gdpr-compliant-apps-with-andromo/#comments</comments>
+		<pubDate>Mon, 28 May 2018 19:22:25 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+		<category><![CDATA[GDPR]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4310</guid>
+		<description><![CDATA[<p>Andromo is committed to ensuring that apps created on it&#8217;s platform comply with the European Union (EU) General Data Protection Regulation (GDPR) which took affect on May 25th, 2018. With today&#8217;s release of Andromo v5.0.15, we&#8217;ve taken the following steps to provide GDPR compliance for your apps: AdMob &#8211; Will only serve non-personalized ads for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/creating-gdpr-compliant-apps-with-andromo/">Creating GDPR Compliant Apps with Andromo</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Andromo is committed to ensuring that apps created on it&#8217;s platform comply with the European Union (EU) General Data Protection Regulation (GDPR) which took affect on May 25th, 2018.</p>
+<p>With today&#8217;s release of <a href="https://www.andromo.com">Andromo v5.0.15</a>, we&#8217;ve taken the following steps to provide GDPR compliance for your apps:</p>
+<ul>
+<li>AdMob &#8211; Will only serve non-personalized ads for EU users.</li>
+<li>StartApp &#8211; Will only serve non-personalized ads for EU users.</li>
+<li>AppLovin &#8211; Will only serve non-personalized ads for EU users.</li>
+<li>Others &#8211; Disabled the following ad networks for EU users: Amazon, AppBrain, Facebook Audience Network.</li>
+<li>Analytics &#8211; Disabled Andromo &amp; Google analytics for EU users.</li>
+<li>AirBop &#8211; Disabled AirBop for EU users.</li>
+</ul>
+<h3><strong>Requirements for AdMob, StartApp or AppLovin Ads</strong></h3>
+<p>If your app includes AdMob, StartApp or AppLovin ads, you must perform the following steps to be compliant:</p>
+<ol>
+<li>Enable the &#8220;Launch Notice&#8221; dialog in your app for EU users. To do this, go to your project&#8217;s &#8220;Settings&#8221; tab, enable the &#8220;Show Launch Notice&#8221; checkbox and then enable the &#8220;European Union countries only (uncheck for Worldwide)&#8221; checkbox. The text you provide is up to you, however below is an example of what might be appropriate for your app if you include AdMob:<br />
+<blockquote><p>We care about your privacy and data security. We keep this app free by showing ads. We&#8217;ll partner with Google and use a unique identifier on your device to serve only non-personalized ads.<br />
+For information about how Google uses your mobile identifier please visit:<br />
+https://policies.google.com/technologies/partner-sites</p></blockquote>
+<p>You should inform users about these ad networks in your Launch Notice text, including links to their privacy policies.</p>
+<p>The privacy policies for StartApp and AppLovin can be found here:</p>
+<p><a href="https://www.applovin.com/privacy" target="_blank" rel="noopener">https://www.applovin.com/privacy</a><br />
+<a href="http://www.startapp.com/policy/privacy-policy/" target="_blank" rel="noopener">http://www.startapp.com/policy/privacy-policy/</a></p>
+<p>Google&#8217;s policy page can be found at:<br />
+<a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">https://policies.google.com/technologies/partner-sites</a></li>
+<li>Once you&#8217;ve made the above changes, increase your app&#8217;s version number on the &#8220;Settings&#8221; tab, and then generate a new build of your app by clicking the &#8220;Build My App&#8221; button on your project&#8217;s &#8220;Build&#8221; tab. Once the build has completed, test it and publish the new version to all of the app stores you previously published to.</li>
+</ol>
+<h4><strong>Requirements for All Apps</strong></h4>
+<p>Even if your app does not contain ads, you&#8217;ll need to generate a new build of your app to comply with GDPR. This is also a good time to revisit adding a &#8220;cookie notice&#8221;. Refer to our KB article &#8220;<a href="http://support.andromo.com/kb/common-questions/eu-user-consent-privacy-policy">EU User Consent / Privacy Policy</a>&#8221; for more info &#8211; or read up at <a href="https://www.cookiechoices.org/">https://www.cookiechoices.org/</a>.</p>
+<p>To generate a new build, increase your app&#8217;s version number on the &#8220;Settings&#8221; tab, and then go to your project&#8217;s &#8220;Build&#8221; tab and click the &#8220;Build My App&#8221; button. Once the build has completed, test it and publish the new version to all of the app stores you previously published to.</p>
+<h2>Further Details&#8230;</h2>
+<h4>What is GDPR?</h4>
+<p>The basics of GDPR state that if you are located in the EU or your app is targeting users in the EU, then you need to obtain explicit consent from the user in order to collect and store &#8220;<em>personal information.&#8221;</em></p>
+<p>The exact language and wording is much more complicated than written above (specifically concerning what exactly is <em>personal information</em>), but that is the gist of it. You can and should read the official document <a href="https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en">2018 reform of EU data protection rules</a> or if you can&#8217;t make it through that document, the &#8220;simplified version&#8221; is available from <a href="https://www.eugdpr.org/">GDPR Portal</a>. It makes excellent bedtime reading.</p>
+<h4>Why Should You Care?</h4>
+<p>At first glance you might think that your app doesn&#8217;t collect <em>personal information</em> so this does not apply to you. However, the definition of personal information is quite broad and extends to IP addresses and mobile device identifiers &#8211; not just names, addresses and medical records.</p>
+<p>The problem lies with the fact that over the years, all advertising networks have evolved to store that information so that they can track and identify users behavior and serve up what has come to be known as &#8220;personalized ads&#8221;.</p>
+<p>So, while your app itself may never have asked people for their name, email, address etc., the ad networks and analytics providers are still making use of IP and device identifiers.</p>
+<h4>What Does it Require of You?</h4>
+<p>In a nutshell, to be compliant with GDPR your app either needs to obtain explicit consent to collect and store personal information, or it needs to stop storing that info for anyone in the EU.</p>
+<p>To obtain explicit consent requires a startup screen that asks users to specifically sign up to be tracked and receive &#8220;personalized ads&#8221; from each ad network you work with, along with privacy policy information for each one. For context, Google&#8217;s AdMob has literally thousands of ad providers enabled by default&#8230;</p>
+<p>At the moment, the tools and recommendations to deal with explicit consent are simply inadequate to make that realistic.</p>
+<h4>What we Have Done for Andromo Apps</h4>
+<p>The safest option right now is to disable anything in your app that stores personal information if the user is located in the EU. That is what we have done in Andromo v5.0.15 so that you can put out a GDPR compliant app today.</p>
+<p>Fortunately several ad networks supported by Andromo have now added the ability to turn off <em>personalized ads</em> and instead serve up only <em>non personalized ads</em>. Hopefully more will follow suit in the future.</p>
+<p>Additionally, once the tools and procedures to obtain explicit consent for personalized ads solidify, we can revisit and see about making that an option.</p>
+<p><img class="alignnone size-medium wp-image-4341" src="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2018/05/dayne-topkin-78982-unsplash.jpg?resize=600%2C400&#038;ssl=1" alt="" width="600" height="400" srcset="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2018/05/dayne-topkin-78982-unsplash.jpg?resize=600%2C400&amp;ssl=1 600w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2018/05/dayne-topkin-78982-unsplash.jpg?resize=768%2C512&amp;ssl=1 768w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2018/05/dayne-topkin-78982-unsplash.jpg?w=1000&amp;ssl=1 1000w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/creating-gdpr-compliant-apps-with-andromo/">Creating GDPR Compliant Apps with Andromo</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/creating-gdpr-compliant-apps-with-andromo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4310</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.15 Released</title>
+		<link>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-15-released/</link>
+		<comments>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-15-released/#comments</comments>
+		<pubDate>Mon, 28 May 2018 19:17:38 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+		<category><![CDATA[GDPR]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4296</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.15 has been released. Here is a list of changes in this version: Added GDPR compliance to apps. Additional developer steps are required to be compliant, refer to the Creating GDPR Compliant Apps with Andromo blog post for full details. Added support for Google Maps API keys to the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-15-released/">Andromo App Maker for Android v5.0.15 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.15 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Added GDPR compliance to apps. Additional developer steps are required to be compliant, refer to the <a href="https://blog.andromo.com/2018/creating-gdpr-compliant-apps-with-andromo/">Creating GDPR Compliant Apps with Andromo</a> blog post for full details.</li>
+<li>Added support for Google Maps API keys to the Map activity. This is to accommodate changes introduced by Google on May 2, 2018: &#8220;<a href="https://mapsplatform.googleblog.com/2018/05/introducing-google-maps-platform.html">Introducing Google Maps Platform</a>&#8220;. You will want to read that article and familiarize yourself with their new pricing, free tier credit and configure usage/billing limits in your Google developer account. Learn how to use the new <a href="http://support.andromo.com/kb/activities/map-activity#google-maps-api-key">Google Maps API Key</a> and <a href="http://support.andromo.com/kb/activities/map-activity#http-referrer">HTTP Referrer</a> feature in the <a href="http://support.andromo.com/kb/activities/map-activity">Map Activity</a> topic of our Knowledge Base.</li>
+<li>Updated the versions of various Android SDK build and runtime components used by Andromo.</li>
+<li>Updated the Google Mobile Ads SDK (AdMob) version to 15.0.0.</li>
+<li>Updated the Google Play Services client library to version to 15.0.0.</li>
+<li>Updated the Facebook Audience Network SDK to version 4.28.2.</li>
+<li>Updated the AppBrain SDK to version 14.10.</li>
+<li>Updated the AppLovin SDK to version 8.0.1.</li>
+<li>Updated the StartApp SDK to version 3.8.4.</li>
+<li>Updated the YouTube Data API Client Library to version v3-rev195-1.23.0.</li>
+<li>Relaxed the validations in the Phone activity to allow * and # characters.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.15 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4262" src="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/04/andromo-coffee-cup-3.jpg?resize=600%2C375&#038;ssl=1" alt="" width="600" height="375" srcset="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/04/andromo-coffee-cup-3.jpg?resize=600%2C375&amp;ssl=1 600w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/04/andromo-coffee-cup-3.jpg?resize=768%2C480&amp;ssl=1 768w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/04/andromo-coffee-cup-3.jpg?resize=1000%2C625&amp;ssl=1 1000w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/04/andromo-coffee-cup-3.jpg?w=1440&amp;ssl=1 1440w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-15-released/">Andromo App Maker for Android v5.0.15 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-15-released/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4296</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.14 Released</title>
+		<link>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-14-released/</link>
+		<comments>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-14-released/#respond</comments>
+		<pubDate>Wed, 02 May 2018 15:20:02 +0000</pubDate>
+		<dc:creator><![CDATA[Lorne Laliberte]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4284</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.14 has been released. Here is a list of changes in this version: Fixed missing auto-color background when using &#8220;Grid: square image + title: 3 columns auto-color.&#8221; Tweaked auto-color grid styles to prevent a thin gap from appearing between the image and the text area on some devices. Improved [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-14-released/">Andromo App Maker for Android v5.0.14 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.14 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Fixed missing auto-color background when using &#8220;Grid: square image + title: 3 columns auto-color.&#8221;</li>
+<li>Tweaked auto-color grid styles to prevent a thin gap from appearing between the image and the text area on some devices.</li>
+<li>Improved the look of auto-color grid styles when a background image is used.</li>
+<li>Fixed the Twitter activity&#8217;s &#8216;Tweets from a Twitter List&#8217; mode which wasn&#8217;t working.</li>
+<li>Fixed the Podcast Episode activity so the music controls are always visible without needing to be scrolled into view.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.14 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4022" src="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1-1.jpg?resize=600%2C382&#038;ssl=1" alt="" width="600" height="382" srcset="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1-1.jpg?resize=600%2C382&amp;ssl=1 600w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1-1.jpg?resize=768%2C489&amp;ssl=1 768w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1-1.jpg?resize=1000%2C636&amp;ssl=1 1000w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1-1.jpg?w=1440&amp;ssl=1 1440w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-14-released/">Andromo App Maker for Android v5.0.14 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-14-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4284</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.13 Released</title>
+		<link>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-13-released/</link>
+		<comments>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-13-released/#comments</comments>
+		<pubDate>Tue, 10 Apr 2018 16:29:39 +0000</pubDate>
+		<dc:creator><![CDATA[Lorne Laliberte]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4255</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.13 has been released. Here is a list of changes in this version: Added some item styles with a new layout behaviour similar to the &#8220;button grid&#8221; dashboard style from Andromo v4 (&#8220;Grid: square image + side title&#8221;, &#8220;Grid: square image + side title auto-color&#8221;, &#8220;Grid: square image + [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-13-released/">Andromo App Maker for Android v5.0.13 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.13 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Added some item styles with a new layout behaviour similar to the &#8220;button grid&#8221; dashboard style from Andromo v4 (&#8220;Grid: square image + side title&#8221;, &#8220;Grid: square image + side title auto-color&#8221;, &#8220;Grid: square image + side title subtitle&#8221; and &#8220;Grid: square image + side title subtitle auto-color&#8221;). Note: these styles are automatically adjusted when used with a background image. If a background image exists, the items will be slightly translucent and use a different divider type so the background image remains subtly visible behind the item.</li>
+<li>Improved the look of some grid styles when a background image is used.</li>
+<li>Improved the quality of images in the Photo Gallery activity when one dimension of the source image is slightly larger than 1024 pixels.</li>
+<li>Changed how the audio controls are displayed on right-to-left language devices so they&#8217;re consistent with other audio apps.</li>
+<li>Added support for sms: and smsto: in Website, Custom Page, and HTML Archive activities.</li>
+<li>Made it so tel: URIs are automatically escaped to preserve special characters such as # for links in Website, Custom Page, and HTML Archive activities.</li>
+<li>Added a new &#8220;Add Activity&#8221; dropup button below the Project &gt; Activities list. Reduces the need to scroll up to the top of the page for those people with lots of activities in their projects.</li>
+<li>Changed the minimum time between builds of the same project to 15 minutes.</li>
+<li>Fixed the account username signup message to read &#8220;Minimum 4 characters&#8221;.</li>
+</ul>
+<h3>Examples of New Grid Styles</h3>
+
+<a href='https://blog.andromo.com/grid_square_side_title_01_framed_400/'><img width="324" height="600" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_01_framed_400.jpg?fit=324%2C600&amp;ssl=1" class="attachment-medium size-medium" alt="Grid: square image + side title" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_01_framed_400.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_01_framed_400.jpg?resize=324%2C600&amp;ssl=1 324w" sizes="(max-width: 324px) 100vw, 324px" /></a>
+<a href='https://blog.andromo.com/grid_square_side_title_auto_01_framed_400/'><img width="324" height="600" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_auto_01_framed_400.jpg?fit=324%2C600&amp;ssl=1" class="attachment-medium size-medium" alt="Grid: square image + side title auto-color" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_auto_01_framed_400.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_auto_01_framed_400.jpg?resize=324%2C600&amp;ssl=1 324w" sizes="(max-width: 324px) 100vw, 324px" /></a>
+<a href='https://blog.andromo.com/grid_square_side_title_subtitle_01_framed_400/'><img width="324" height="600" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_subtitle_01_framed_400.jpg?fit=324%2C600&amp;ssl=1" class="attachment-medium size-medium" alt="Grid: square image + side title subtitle" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_subtitle_01_framed_400.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_subtitle_01_framed_400.jpg?resize=324%2C600&amp;ssl=1 324w" sizes="(max-width: 324px) 100vw, 324px" /></a>
+<a href='https://blog.andromo.com/grid_square_side_title_subtitle_auto_01_framed_400/'><img width="324" height="600" src="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_subtitle_auto_01_framed_400.jpg?fit=324%2C600&amp;ssl=1" class="attachment-medium size-medium" alt="Grid: square image + side title subtitle auto-color" srcset="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_subtitle_auto_01_framed_400.jpg?w=400&amp;ssl=1 400w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_subtitle_auto_01_framed_400.jpg?resize=324%2C600&amp;ssl=1 324w" sizes="(max-width: 324px) 100vw, 324px" /></a>
+
+<p>&nbsp;</p>
+<div id="attachment_4278" style="width: 410px" class="wp-caption alignnone"><img class="size-full wp-image-4278" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2018/04/grid_square_side_title_auto_01_framed_landscape_400.jpg?resize=400%2C194&#038;ssl=1" alt="Grid: square image + side title subtitle auto-color (landscape)" width="400" height="194" data-recalc-dims="1" /><p class="wp-caption-text">Grid: square image + side title subtitle auto-color (landscape)</p></div>
+<p>&nbsp;</p>
+<p>Andromo App Maker for Android v5.0.13 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-13-released/">Andromo App Maker for Android v5.0.13 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-13-released/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4255</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.12 Released</title>
+		<link>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-12-released/</link>
+		<comments>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-12-released/#respond</comments>
+		<pubDate>Tue, 13 Mar 2018 19:31:08 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4237</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.12 has been released. Here is a list of changes in this version: Fixed an issue in the Podcast activity where the audio notification would fail to open the activity if the podcast&#8217;s playlist was large. Fixed an issue with the Set as Wallpaper feature where it would fail [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-12-released/">Andromo App Maker for Android v5.0.12 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.12 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Fixed an issue in the Podcast activity where the audio notification would fail to open the activity if the podcast&#8217;s playlist was large.</li>
+<li>Fixed an issue with the Set as Wallpaper feature where it would fail on some device configurations when the chosen app didn&#8217;t have the appropriate permissions configured.</li>
+<li>Implemented several platform security upgrades:
+<ul>
+<li>Enabled Google Safe Browsing for WebViews (available on Android 5.0 and above).</li>
+<li>Made some changes to WebView error handling.</li>
+<li>Made it so links are sanitized before being passed on to external apps.</li>
+</ul>
+</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.12 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4166" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-5.jpg?resize=600%2C337&#038;ssl=1" alt="Andromo App Maker for Android" width="600" height="337" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-5.jpg?resize=600%2C337&amp;ssl=1 600w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-5.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-5.jpg?w=1000&amp;ssl=1 1000w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-12-released/">Andromo App Maker for Android v5.0.12 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2018/andromo-app-maker-for-android-v5-0-12-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4237</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.11 Released</title>
+		<link>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-11-released/</link>
+		<comments>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-11-released/#respond</comments>
+		<pubDate>Thu, 21 Dec 2017 00:29:56 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4224</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.11 has been released. Here is a list of changes in this version: Updated the Facebook Audience Network SDK to version 4.27.0. Added a time limit for the caching of Facebook Audience Network interstitials. Fixed a bug in the Podcast activity where the download option would fail with an [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-11-released/">Andromo App Maker for Android v5.0.11 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.11 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Updated the Facebook Audience Network SDK to version 4.27.0.</li>
+<li>Added a time limit for the caching of Facebook Audience Network interstitials.</li>
+<li>Fixed a bug in the Podcast activity where the download option would fail with an error in certain situations.</li>
+<li>Prevented a crash on the About dialog on some Samsung devices when <em>Settings &gt; Target Market</em> was set to <em>Samsung Apps</em>.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.11 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4167" src="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-6.jpg?resize=600%2C375&#038;ssl=1" alt="" width="600" height="375" srcset="https://i2.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-6.jpg?resize=600%2C375&amp;ssl=1 600w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-6.jpg?resize=768%2C480&amp;ssl=1 768w, https://i2.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-6.jpg?w=1000&amp;ssl=1 1000w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-11-released/">Andromo App Maker for Android v5.0.11 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-11-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4224</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.10 Released</title>
+		<link>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-10-released/</link>
+		<comments>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-10-released/#comments</comments>
+		<pubDate>Fri, 01 Dec 2017 16:17:43 +0000</pubDate>
+		<dc:creator><![CDATA[Lorne Laliberte]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4212</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.10 has been released. Here is a list of changes in this version: Made it so the toolbar is no longer always pinned in landscape orientation; now it is only pinned in landscape if it was pinned in portrait orientation. Fixed an issue in the Twitter activity where text [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-10-released/">Andromo App Maker for Android v5.0.10 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.10 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Made it so the toolbar is no longer always pinned in landscape orientation; now it is only pinned in landscape if it was pinned in portrait orientation.</li>
+<li>Fixed an issue in the Twitter activity where text was being cut off on some Android versions.</li>
+<li>Fixed the &#8216;List: wide image (4:3 aspect) + title&#8217; and &#8216;List: wide image (4:3 aspect) + title description&#8217; dashboard item styles where the square image was being referenced instead of the wide image.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.10 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4165" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-4.jpg?resize=600%2C450&#038;ssl=1" alt="" width="600" height="450" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-4.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-4.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-4.jpg?w=1000&amp;ssl=1 1000w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-10-released/">Andromo App Maker for Android v5.0.10 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-10-released/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4212</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.9 Released</title>
+		<link>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-9-released/</link>
+		<comments>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-9-released/#comments</comments>
+		<pubDate>Thu, 12 Oct 2017 16:20:50 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4190</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.9 has been released. Here is a list of changes in this version: Improved the behavior of the Photo, RSS Photo, and Flickr Activity&#8217;s photo viewer. Fixed an issue in the PDF activity where some viewers would fail to open the file, such as Drive PDF Viewer. Enabled &#8216;Mixed [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-9-released/">Andromo App Maker for Android v5.0.9 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.9 has been released.</p>
+<p>Here is a list of changes in this version:</p>
+<ul>
+<li>Improved the behavior of the Photo, RSS Photo, and Flickr Activity&#8217;s photo viewer.</li>
+<li>Fixed an issue in the PDF activity where some viewers would fail to open the file, such as Drive PDF Viewer.</li>
+<li>Enabled &#8216;Mixed Content Compatibility Mode&#8217; in the Website activity to accommodate websites containing secure and non-secure content (https and http).</li>
+<li>Fixed an issue with cookies in the Website activity on Android versions greater than 5.0.</li>
+<li>Fixed an issue which could cause a Standard toolbar to cover the top part of a feature image when the toolbar settings were inherited from the global theme.</li>
+<li>Fixed an issue where the feature image could fail to appear when inheriting the toolbar and image settings from different themes.</li>
+<li>Fixed an issue in the Google Play activity when linking to a developer page.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.9 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4164" src="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-3.jpg?resize=600%2C451&#038;ssl=1" alt="" width="600" height="451" srcset="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-3.jpg?resize=600%2C451&amp;ssl=1 600w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-3.jpg?resize=768%2C577&amp;ssl=1 768w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-3.jpg?w=1000&amp;ssl=1 1000w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-9-released/">Andromo App Maker for Android v5.0.9 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-9-released/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4190</post-id>	</item>
+		<item>
+		<title>Andromo v5.0.8 Released &#8211; 6 New Background Image Effects</title>
+		<link>https://blog.andromo.com/2017/andromo-v5-0-8-released-6-new-background-image-effects/</link>
+		<comments>https://blog.andromo.com/2017/andromo-v5-0-8-released-6-new-background-image-effects/#comments</comments>
+		<pubDate>Thu, 31 Aug 2017 19:40:57 +0000</pubDate>
+		<dc:creator><![CDATA[Andromo App Maker]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4171</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.8 has been released. Here is a list of changes in this version release: Added 6 new background image effect filters: Darken, Lighten, Midnight, Twilight, Greyscale, Tint Migrated projects created with Andromo v4 that used the old &#8220;Frosting&#8221; and &#8220;Midnight&#8221; image effects (that have not updated their background images [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-v5-0-8-released-6-new-background-image-effects/">Andromo v5.0.8 Released &#8211; 6 New Background Image Effects</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.8 has been released.</p>
+<p>Here is a list of changes in this version release:</p>
+<ul>
+<li>Added 6 new background image effect filters: Darken, Lighten, Midnight, Twilight, Greyscale, Tint</li>
+<li>Migrated projects created with Andromo v4 that used the old &#8220;Frosting&#8221; and &#8220;Midnight&#8221; image effects (that have not updated their background images since July 27, 2017) to take advantage of the new background image effect filters.</li>
+</ul>
+
+<p>Andromo App Maker for Android v5.0.8 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4163" src="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-2.jpg?resize=600%2C383&#038;ssl=1" alt="" width="600" height="383" srcset="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-2.jpg?resize=600%2C383&amp;ssl=1 600w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-2.jpg?resize=768%2C490&amp;ssl=1 768w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-2.jpg?w=1000&amp;ssl=1 1000w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-v5-0-8-released-6-new-background-image-effects/">Andromo v5.0.8 Released &#8211; 6 New Background Image Effects</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/andromo-v5-0-8-released-6-new-background-image-effects/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4171</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.7 Released</title>
+		<link>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-7-released/</link>
+		<comments>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-7-released/#comments</comments>
+		<pubDate>Mon, 21 Aug 2017 20:52:50 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4157</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.7 has been released. Here is a list of changes in this version release: Added support for Channel IDs to the YouTube activity. Added an option to disable the share item in the Audio Player, Podcast, and Radio activities. Updated the AppBrain SDK to version 13.22. Updated the StartApp [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-7-released/">Andromo App Maker for Android v5.0.7 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.7 has been released.</p>
+<p>Here is a list of changes in this version release:</p>
+<ul>
+<li>Added support for Channel IDs to the YouTube activity.</li>
+<li>Added an option to disable the share item in the Audio Player, Podcast, and Radio activities.</li>
+<li>Updated the AppBrain SDK to version 13.22.</li>
+<li>Updated the StartApp SDK to version 3.6.3.</li>
+<li>Added a language translation file for Finnish.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.7 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4162" src="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-1.jpg?resize=600%2C362&#038;ssl=1" alt="" width="600" height="362" srcset="https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-1.jpg?resize=600%2C362&amp;ssl=1 600w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-1.jpg?resize=768%2C464&amp;ssl=1 768w, https://i1.wp.com/blog.andromo.com/wp-content/uploads/2017/08/andromo-coffee2-1.jpg?w=1000&amp;ssl=1 1000w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-7-released/">Andromo App Maker for Android v5.0.7 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-7-released/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4157</post-id>	</item>
+		<item>
+		<title>Andromo App Maker for Android v5.0.6 Released</title>
+		<link>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-6-released/</link>
+		<comments>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-6-released/#respond</comments>
+		<pubDate>Wed, 09 Aug 2017 16:21:16 +0000</pubDate>
+		<dc:creator><![CDATA[Darryl Hnatiuk]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4147</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.6 has been released. Here is a list of changes in this version release: Fixed a bug that would occur in large projects (more than 99 activities) where some dashboard and navigation icons would be missing as well as some activities. Fixed a bug in the Radio and Music [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-6-released/">Andromo App Maker for Android v5.0.6 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andromo.com">Andromo App Maker for Android</a> version 5.0.6 has been released.</p>
+<p>Here is a list of changes in this version release:</p>
+<ul>
+<li>Fixed a bug that would occur in large projects (more than 99 activities) where some dashboard and navigation icons would be missing as well as some activities.</li>
+<li>Fixed a bug in the Radio and Music Player activity where long status text wasn&#8217;t scrolling properly.</li>
+<li>Fixed an issue in dashboard grid item styles where the column count was not adjusting properly in landscape orientation.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.6 is now live at <a href="http://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4007" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-1.jpg?resize=600%2C414&#038;ssl=1" alt="" width="600" height="414" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-1.jpg?resize=600%2C414&amp;ssl=1 600w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-1.jpg?resize=768%2C530&amp;ssl=1 768w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-1.jpg?resize=1000%2C690&amp;ssl=1 1000w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-1.jpg?w=1440&amp;ssl=1 1440w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-6-released/">Andromo App Maker for Android v5.0.6 Released</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/andromo-app-maker-android-v5-0-6-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4147</post-id>	</item>
+		<item>
+		<title>Andromo v5.0.5 &#8211; Backgrounds are Back</title>
+		<link>https://blog.andromo.com/2017/andromo-v5-0-5-backgrounds-are-back/</link>
+		<comments>https://blog.andromo.com/2017/andromo-v5-0-5-backgrounds-are-back/#comments</comments>
+		<pubDate>Thu, 27 Jul 2017 23:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[Andromo App Maker]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4117</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.5 has been released. Here is a list of changes in this version release: Added a background image option for the Dashboard and the following Activities: Audio Player, Podcast, SHOUTcast Radio. Dr. Andromo aims to please! Made the audio controls translucent (and other small adjustments) so they look cool [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-v5-0-5-backgrounds-are-back/">Andromo v5.0.5 &#8211; Backgrounds are Back</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.andromo.com">Andromo App Maker for Android</a> version 5.0.5 has been released.</p>
+<p>Here is a list of changes in this version release:</p>
+<ul>
+<li>Added a background image option for the Dashboard and the following Activities: Audio Player, Podcast, SHOUTcast Radio. Dr. Andromo aims to please!</li>
+<li>Made the audio controls translucent (and other small adjustments) so they look cool when background images are used.</li>
+<li>A darkening gradient is automatically applied to the background image when banner ads are enabled, so the background becomes more subtle around the ad. (A 12-step simulated cubic gradient, so it&#8217;s extra smoooooth!)</li>
+<li>Added 11 new Dashboard item styles, including List styles with cool bubble text (they look awesome over a background photo), plus a bunch of 3:1 ratio Card styles for those developers who want to fit more cards per screen.</li>
+</ul>
+<p><img class="alignnone size-medium wp-image-4132" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/07/list_bubble_primary_title_02_framed_400.jpg?resize=350%2C600&#038;ssl=1" alt="" width="350" height="600" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/07/list_bubble_primary_title_02_framed_400.jpg?resize=350%2C600&amp;ssl=1 350w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/07/list_bubble_primary_title_02_framed_400.jpg?w=400&amp;ssl=1 400w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1" /><img class="alignnone size-medium wp-image-4128" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/07/card_3x1_scrim_title_subtitle_desc_auto_01_framed_400.jpg?resize=350%2C600&#038;ssl=1" alt="" width="350" height="600" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/07/card_3x1_scrim_title_subtitle_desc_auto_01_framed_400.jpg?resize=350%2C600&amp;ssl=1 350w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/07/card_3x1_scrim_title_subtitle_desc_auto_01_framed_400.jpg?w=400&amp;ssl=1 400w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1" /></p>
+<p>Andromo App Maker for Android v5.0.5 is now live at <a href="https://www.andromo.com">www.andromo.com</a>.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-v5-0-5-backgrounds-are-back/">Andromo v5.0.5 &#8211; Backgrounds are Back</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/andromo-v5-0-5-backgrounds-are-back/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4117</post-id>	</item>
+		<item>
+		<title>Andromo App Maker v5.0.4 is live!</title>
+		<link>https://blog.andromo.com/2017/andromo-app-maker-v5-0-4-live/</link>
+		<comments>https://blog.andromo.com/2017/andromo-app-maker-v5-0-4-live/#respond</comments>
+		<pubDate>Thu, 20 Jul 2017 14:34:26 +0000</pubDate>
+		<dc:creator><![CDATA[Andromo App Maker]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4107</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.4 has been released. Here is a list of changes in this version release: Fixed an issue with AdMob banners where the returned ad size was larger than the provided ad space resulting in no ad displaying on some sized devices. Fixed a bug where the Norwegian language translations [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-v5-0-4-live/">Andromo App Maker v5.0.4 is live!</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.andromo.com">Andromo App Maker for Android</a> version 5.0.4 has been released.</p>
+<p>Here is a list of changes in this version release:</p>
+<ul>
+<li>Fixed an issue with AdMob banners where the returned ad size was larger than the provided ad space resulting in no ad displaying on some sized devices.</li>
+<li>Fixed a bug where the Norwegian language translations were not being used correctly.</li>
+<li>Fixed an issue with several Drawer Icon options that would cause a build failure if chosen.</li>
+<li>Added a &#8220;Use legacy icon image&#8221; option to the Square Image dropdown menu for Activities created using Andromo v4.  Moving forward, you should upload higher quality images (Andromo v4 limited you to square 256&#215;256 icon graphic files). Andromo v5 now supports high resolution photo quality 1440&#215;1440 images&#8230; However, for quick project updates, this new feature should save some time migration old projects over to v5!</li>
+<li>Added smart migration of projects to Andromo v5. For any project that has not been updated since v5 was released, we have updated your project and set the &#8220;Dashboard item style&#8221; for you, to match up with the closest v5 style that uses Square Images. Then, for any Activity that has not been updated, we have set the &#8220;Square Image&#8221; to be your old legacy icon image. Moving forward we recommend you update your images to new higher quality versions and investigate the 50 new awesome looking <a href="https://blog.andromo.com/2017/new-dashboard-styles-in-andromo-v5/">Material dashboard styles</a> that are now available.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.4 is now live at <a href="https://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4021" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-6-1.jpg?resize=600%2C400&#038;ssl=1" alt="" width="600" height="400" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-6-1.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-6-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-6-1.jpg?resize=1000%2C667&amp;ssl=1 1000w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-cup-6-1.jpg?w=1440&amp;ssl=1 1440w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-v5-0-4-live/">Andromo App Maker v5.0.4 is live!</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/andromo-app-maker-v5-0-4-live/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4107</post-id>	</item>
+		<item>
+		<title>Andromo App Maker v5.0.3 Now Available</title>
+		<link>https://blog.andromo.com/2017/andromo-app-maker-v5-0-3-now-available/</link>
+		<comments>https://blog.andromo.com/2017/andromo-app-maker-v5-0-3-now-available/#respond</comments>
+		<pubDate>Mon, 10 Jul 2017 21:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[Andromo App Maker]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Press Release]]></category>
+		<category><![CDATA[changelog]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4091</guid>
+		<description><![CDATA[<p>Andromo App Maker for Android version 5.0.3 has been released. Here is a list of changes in this version release: Added interactive screenshots for all Dashboard Item Styles. You&#8217;ll now see an example screenshot of what each dashboard item style looks like as you choose it in your project. Want to see them all at [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-v5-0-3-now-available/">Andromo App Maker v5.0.3 Now Available</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.andromo.com">Andromo App Maker for Android</a> version 5.0.3 has been released.</p>
+<p>Here is a list of changes in this version release:</p>
+<ul>
+<li>Added interactive screenshots for all Dashboard Item Styles. You&#8217;ll now see an example screenshot of what each dashboard item style looks like as you choose it in your project. Want to see them all at once? See our blog post: <a href="https://blog.andromo.com/2017/new-dashboard-styles-in-andromo-v5/">New Dashboard Styles in Andromo v5</a></li>
+<li>For those users who have been uploading invalid/corrupted PNG image files (just renaming a file .png does not make it a .png file folks!), we now detect that as it happens when uploading and building.</li>
+<li>Fixed bug with activity position not saving for Radio activities.</li>
+<li>Now enforcing SSL for the entire site.</li>
+<li>Resolved a build error that occurred when the Dashboard was turned off and you only had a single YouTube activity or a single Website activity with the &#8220;Open in External Browser&#8221; option checked. Activities without a &#8220;view&#8221; can not be either the first activity or the only activity in your app. This fixes that automatically now.</li>
+<li>Fixed a bug where the About dialog would crash on Samsung devices when the Target Market was set to &#8216;Samsung Apps&#8217;.</li>
+<li>Made it so the navigation drawer header image uses a 16:9 aspect ratio on any type of device.</li>
+<li>Made it so a text scrim is automatically applied to the navigation drawer header image to improve text contrast and legibility unless the title and subtitle are blank.</li>
+<li>Added a new Dashboard item style &#8216;Grid: square image + title. 3 columns auto-color&#8217;.</li>
+<li>Fixed the translations for the navigation drawer&#8217;s &#8216;Settings&#8217; and &#8216;About&#8217; items.</li>
+</ul>
+<p>Andromo App Maker for Android v5.0.3 is now live at <a href="https://www.andromo.com">www.andromo.com</a>.</p>
+<p><img class="alignnone size-medium wp-image-4013" src="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1.jpg?resize=600%2C382&#038;ssl=1" alt="" width="600" height="382" srcset="https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1.jpg?resize=600%2C382&amp;ssl=1 600w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1.jpg?resize=768%2C489&amp;ssl=1 768w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1.jpg?resize=1000%2C636&amp;ssl=1 1000w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/blog.andromo.com/wp-content/uploads/2017/06/andromo-coffee-mug-1.jpg?w=3000&amp;ssl=1 3000w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/andromo-app-maker-v5-0-3-now-available/">Andromo App Maker v5.0.3 Now Available</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/andromo-app-maker-v5-0-3-now-available/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4091</post-id>	</item>
+		<item>
+		<title>New Dashboard Styles in Andromo v5</title>
+		<link>https://blog.andromo.com/2017/new-dashboard-styles-in-andromo-v5/</link>
+		<comments>https://blog.andromo.com/2017/new-dashboard-styles-in-andromo-v5/#comments</comments>
+		<pubDate>Sat, 01 Jul 2017 16:36:36 +0000</pubDate>
+		<dc:creator><![CDATA[Colin Adams]]></dc:creator>
+				<category><![CDATA[Andromo App Maker]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Andromo]]></category>
+		<category><![CDATA[Dashboard]]></category>
+		<category><![CDATA[styles]]></category>
+
+		<guid isPermaLink="false">https://blog.andromo.com/?p=4033</guid>
+		<description><![CDATA[<p>With Andromo v5, we&#8217;ve gone from having 4 dashboard layout options (Classic, List, Button Grid and Gallery) to almost 50 of them! Take a look at all of the options you now have available to you. Then in your Andromo project, simply select the &#8220;Item Style&#8221; you would like to use on the Dashboard tab. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/new-dashboard-styles-in-andromo-v5/">New Dashboard Styles in Andromo v5</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>With Andromo v5, we&#8217;ve gone from having 4 dashboard layout options (Classic, List, Button Grid and Gallery) to almost 50 of them!</p>
+<p>Take a look at all of the options you now have available to you. Then in your Andromo project, simply select the &#8220;Item Style&#8221; you would like to use on the Dashboard tab.</p>
+<p>You&#8217;ll notice that there are 3 main categories of styles: Card, Grid and List.</p>
+<p>Within each category, read the description to see what kind of images you will need to provide for each of your Activities: Either &#8220;wide image&#8221;, &#8220;square image&#8221; (note: this can even be your old Andromo v4 transparent PNG icon files you might be used to &#8211; but we&#8217;d really recommend that you upgrade your apps to using higher quality JPG photos), or we have provided 900+ Google Material Design &#8220;drawer icons&#8221; that you can use.</p>
+<p>Try them out today!</p>
+<h3>Card Item Styles</h3>
+
+<p>&nbsp;</p>
+<h3>Grid Item Styles</h3>
+
+<p>&nbsp;</p>
+<h3>List Item Styles</h3>
+
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://blog.andromo.com/2017/new-dashboard-styles-in-andromo-v5/">New Dashboard Styles in Andromo v5</a> appeared first on <a rel="nofollow" href="https://blog.andromo.com">Andromo App Maker Blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://blog.andromo.com/2017/new-dashboard-styles-in-andromo-v5/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4033</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 176/186 objects using disk
+Page Caching using disk: enhanced (SSL caching disabled) 
+Minified using disk
+Database Caching 1/8 queries in 0.003 seconds using disk
+
+Served from: blog.andromo.com @ 2018-11-21 10:14:51 by W3 Total Cache
+-->
